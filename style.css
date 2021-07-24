@@ -23,7 +23,6 @@ header {
     font-size: 150%;
     font-family: 'Ocean Sunshine Demo Version';
     color: white;
-       
 }
 
 .title {
@@ -55,6 +54,7 @@ main {
 .pregunta {
     display: flex;
     height: 30%;
+    width: 90%;
     justify-content: center;
     align-items: center;
 }
@@ -83,6 +83,7 @@ main {
     color: rgb(58, 47, 23);
     font-size: 25px; 
 }
+
 
 #next {
     background-color: rgb(131, 245, 121);

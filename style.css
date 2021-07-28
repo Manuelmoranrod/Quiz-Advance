@@ -74,7 +74,7 @@ main {
     justify-content: flex-end;
 }
 
-.btn {
+.btn-answer {
     background-color: darkorange;
     width: 55vw;
     height: 8vh;
@@ -114,7 +114,7 @@ main {
         justify-content: space-evenly;
     }
 
-    .btn {
+    .btn-answer {
         background-color: darkorange;
         width: 30vw;
         height: 8vh;

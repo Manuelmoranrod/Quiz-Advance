@@ -1,0 +1,1 @@
+//tengo que borrar el html y pintar el nuevo objeto:objet
